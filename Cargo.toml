@@ -1,0 +1,8 @@
+[package]
+name = "actix-rust"
+version = "0.1.0"
+authors = ["fox0 <>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "3"
